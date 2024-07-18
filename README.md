@@ -64,4 +64,4 @@ streamlit run recommender.py
 ```
 
 8. **Access the Application**:
-Open your web browser and go to http://localhost:8501.
+Open your web browser and go to http://localhost:8501/.
